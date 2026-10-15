@@ -1,0 +1,17 @@
+[
+  {
+    "id": "faq-hours",
+    "question": "What are your business hours? When are you open?",
+    "answer": "Our demo business is open Monday through Friday, 9:00 AM to 5:00 PM. We are closed Saturday and Sunday. Please update this demo information for your business.",
+    "category": "hours",
+    "active": true
+  },
+  {
+    "id": "faq-services",
+    "question": "What services do you provide? What can you help me with?",
+    "answer": "Our demo services are customer support, product and service information, and appointment enquiries. Please update this demo information for your business.",
+    "category": "services",
+    "active": true
+  }
+]
+
